@@ -1,0 +1,30 @@
+# Archivos de entorno y configuración
+.env
+*.env
+
+# Base de datos
+*.db
+bot_database.db
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de distribución
+dist/
+build/
+*.egg-info/
+
+# Archivos de registro
+*.log
+
+# Archivos temporales
+*.tmp
+
+# Archivos específicos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de usuario
+new_users.txt
