@@ -4,6 +4,5 @@ python-dotenv==0.19.2
 tiktoken==0.3.3
 requests==2.28.1
 psutil==5.9.5
-threading2==0.3.1
 flask==2.2.3
 paypalrestsdk==1.13.1
